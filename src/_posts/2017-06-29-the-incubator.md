@@ -4,7 +4,7 @@ date: '29 June 2017'
 ---
 
 Ah the constant struggle to maintain an identity as soon as the “bun in
-the oven” news drops.
+the oven” news drops...
 
 Every day since I told people the news at work they ask how I’m feeling, and
 pay particular attention when I respond. Some of them even gaze openly at
@@ -16,7 +16,7 @@ get. Do you know how weird it feels to get asked how you are, after having no
 fucker in seven years ask you that question? Now my workplace is particularly
 selfish, but seriously take pause and think, pregnant or not, when the hell
 was the last time someone asked not how you were, but HOW YOU WERE FEELING?
-And meant it, like stood there gaping at you awaiting the answer with baited
+And meant it, like stood there gaping at you, awaiting the answer with baited
 breath?
 
 
@@ -29,9 +29,9 @@ straight away, which one could understand. But suddenly, her name flashes up
 on my phone, totally unprompted. I dutifully respond and ask her the same as
 she is quite heavily pregnant at the moment. Once she is satisfied with my
 response I hear nothing more. I can’t help but think, she doesn’t want to
-know how my law that I have two law assignments due, that work is high stress
-because I’m running a three person team on my own, that I have a solo singing
-performance coming up, that I have a very important job interview next week…
+know how my law degree is going; that I have two assignments due; that work is high stress
+because I’m running a three person team on my own; that I have a solo singing
+performance coming up; that I have a very important job interview next week…
 
 
 But she’s not the only one. In the first trimester it’s a constant fucking
@@ -44,7 +44,7 @@ again. Maybe you will have to submit to this squid overlord, quietly taking
 up more real estate in your womb and leaching the very calcium from your
 bones. But after the hangover clears (hello second trimester and my
 appetite), you’re observant as hell, and your gunt is pointing obnoxiously
-at these peasants who have newly received the information. You can smell
+at these peasants who have newly received the information. Your heightened senses can smell  
 every odour in the building including their obsequious agenda. You’re
 wondering how the fuck you’re going to deal with this struggle not to become
 nothing but a gunt. Only to lead to, nothing but a mother...
