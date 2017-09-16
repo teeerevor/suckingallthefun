@@ -3,29 +3,29 @@ title: 'WAS IT PLANNED?'
 date: '7 July 2017'
 ---
 
-WHAT THE FUCK DOES THIS EVEN MEAN?? I’ve been asked often enough now to
+WHAT THE FUCK DOES THIS EVEN MEAN??! I’ve been asked often enough now to
 be wondering what the fuck it is I’m putting out there that means this
 question should be asked? My husband pondered as to whether it’s because I’m
 just not the gushy type, so when I drop the news people are a bit confused.
-Shit, I haven’t been announcing it like a funeral service.  I’m going to bail
+Shit, I haven’t been announcing it like a funeral service. I’m going to bail
 every preggo person up I see and ask them the reenact their announcement so I
-can see where I’m dropping the ball. Also, for the record, my husband for
-once is right.  I’m not a gushy type, so it’s weird to me that this pregnancy
+can see where I’m dropping the ball. Also, for the record, my husband, for
+once, is right. I’m not a gushy type, so it’s weird to me that this pregnancy
 thing has people expecting you to turn into this pastel hued, muslin folding
 stepford wife the minute the jizz train collides with the egg. 
 
 
 SO MANY THINGS TO THINK ABOUT HERE.  I MEAN FUCK, IT’S RUDE RIGHT? Let’s
-break this down anyway because I like pondering this shit. What are you
-really asking when you ask a pregnant chick this question? I guess it boils
+break this down anyway because I like pondering this shit. IDGAF WHAT YOU THINK PEASANT BUT I AM CURIOUS ABOUT THE BEHAVIOUR OF OTHER LIFE FORMS. What are you
+really asking when you ask a pregnant woman this question? I guess it boils
 down to the real question, was it wanted? Are babies like a cheese burger
 from Macca’s? You know, where it wasn’t planned, but now it kinda is cause I
 just auto pilot pulled into drive-through on a whim and shovelled that shit
 down without even thinking?
 
-By way of background, I’m married, I’m 33 years old, I’m sort of in that zone
+By way of background, I’ve been married 4 years, I’m 33 years old, I’m sort of in that zone
 where people are wondering why the fuck I haven’t gotten around to popping
-out a kid like it’s a fait accompli in life. I  get around to this whole baby
+out a kid like it’s a fait accompli in life. I get around to this whole baby
 gig and suddenly they are like HOLD UP GIRL, IS THIS SHIT PLANNED? DO YOU
 KNOW ABOUT BIRTH CONTROL? I DID NOT SEE A TEN YEAR OLD PINTEREST BOARD
 MAPPING THIS SHIT OUT, OR A FEW SNEAKY FITSPO MUM FACEBOOK LIKES TO GIVE ME A
