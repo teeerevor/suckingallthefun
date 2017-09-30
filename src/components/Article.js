@@ -25,17 +25,20 @@ const Heading = styled.h2`
 
 const PostData = styled.span`
   font-size: 0.8em;
-  color: rgba(46, 58, 55, 0.6);
+  color: rgba(46, 58, 55, 0.66);
 `
 
 const Article = ({title, date, content, url}) =>
   <Post>
-    <Heading>{title}</Heading>
+    <Heading>
+      <Link to={"/posts/"+url}>
+        {title}
+      </Link>
+    </Heading>
     <PostData>el Prego &ndash; {date}</PostData>
     <div className="body" dangerouslySetInnerHTML={{__html: content}}>
     </div>
   </Post>;
 
-    //<Heading><Link to={url}>{title}</Link></Heading>
   //<p>abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz</p>
-export default Article
+export default Article;
