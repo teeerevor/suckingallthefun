@@ -35,7 +35,7 @@ const Article = ({title, date, content, url}) =>
         {title}
       </Link>
     </Heading>
-    <PostData>el Prego &ndash; {date}</PostData>
+    <PostData>{date} &ndash; el Prego</PostData>
     <div className="body" dangerouslySetInnerHTML={{__html: content}}>
     </div>
   </Post>;

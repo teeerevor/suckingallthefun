@@ -14,3 +14,12 @@ body {
   font-weight: 400;
   color: #2E3A37;
 }
+
+a{
+  color: #30bf9f;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}

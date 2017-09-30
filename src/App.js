@@ -31,7 +31,7 @@ class App extends Component {
             <Route component={NoMatch} />
           </Switch>
           <Footer>
-            ⓒ el prego
+            &copy; el prego
           </Footer>
         </Wrapper>
       </Router>
