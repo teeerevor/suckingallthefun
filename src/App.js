@@ -6,12 +6,12 @@ import {
   Link,
 } from 'react-router-dom'
 import Helmet from 'react-helmet'
-import Blog from './components/Blog';
-import Post from './components/Post';
 import Wrapper from './components/Wrapper'
 import Title from './components/Title'
 import Footer from './components/Footer'
-import Home from './views/Home'
+
+import Blog from './components/Blog';
+import Post from './components/Post';
 import About from './views/About'
 import NoMatch from './views/NoMatch'
 
