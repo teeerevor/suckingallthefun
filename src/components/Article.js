@@ -8,6 +8,7 @@ const Post = styled.article`
 `;
 
 const Heading = styled.h2`
+  font-family: 'aglet-slab', Georgia, serif;
   text-transform: uppercase;
   letter-spacing: 1px;
   font-size: 1.2em;
@@ -16,6 +17,9 @@ const Heading = styled.h2`
   a{
     color: #2E3A37;
     text-decoration: none;
+    &:hover{
+      text-decoration: underline;
+    }
   }
 `;
 
