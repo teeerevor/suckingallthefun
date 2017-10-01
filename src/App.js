@@ -1,14 +1,16 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 import {
   BrowserRouter as Router,
   Route,
   Switch,
   Link,
-} from 'react-router-dom'
-import Helmet from 'react-helmet'
-import Wrapper from './components/Wrapper'
-import Title from './components/Title'
-import Footer from './components/Footer'
+} from 'react-router-dom';
+import Helmet from 'react-helmet';
+import ReactGA from 'react-ga';
+ReactGA.initialize('UA-107278638-1');
+import Wrapper from './components/Wrapper';
+import Title from './components/Title';
+import Footer from './components/Footer';
 
 import Blog from './components/Blog';
 import Post from './components/Post';
@@ -17,10 +19,15 @@ import NoMatch from './views/NoMatch'
 
 const title = 'Sucking all the fun...'
 
+const logPageView = () => {
+  ReactGA.set({ page: window.location.pathname + window.location.search });
+  ReactGA.pageview(window.location.pathname + window.location.search);
+}
+
 class App extends Component {
   render () {
     return (
-      <Router>
+      <Router onUpdate={logPageView}>
         <Wrapper>
           <Helmet title={title} />
           <Title>{title}</Title>

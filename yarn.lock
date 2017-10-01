@@ -4774,6 +4774,12 @@ react-dom@^15.3.0, react-dom@^15.4.2:
     object-assign "^4.1.0"
     prop-types "^15.5.10"
 
+react-ga@^2.3.4:
+  version "2.3.4"
+  resolved "https://registry.yarnpkg.com/react-ga/-/react-ga-2.3.4.tgz#2011c2bbcd99f19850816405a91e3ed6fba5da98"
+  dependencies:
+    object-assign "^4.1.1"
+
 react-helmet@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/react-helmet/-/react-helmet-4.0.0.tgz#df74bcd6ff585a1ccbbfba5aaa1c346cabc43d03"
