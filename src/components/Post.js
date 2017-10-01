@@ -5,6 +5,14 @@ import { Link } from 'react-router-dom'
 import Article from './Article'
 import posts from '../utils/posts'
 
+//{'name': 'description', 'content': description},
+//{'property': 'og:type', 'content': 'article'},
+//{'property': 'og:title', 'content': title},
+//{'property': 'og:description', 'content': description},
+//{'property': 'og:image', 'content': og && og['image']},
+//{'property': 'og:image:width', 'content': og && og['image:width']},
+//{'property': 'og:image:height', 'content': og && og['image:height']}
+
 const Post = ({ match }) => {
   var post;
   [...posts()].map( item => {
@@ -21,7 +29,7 @@ const Post = ({ match }) => {
           title={title}
           meta={[
             {'property': 'og:type', 'content': 'article'},
-            {'property': 'og:title', 'content': title}
+            {'property': 'og:title', 'content': title},
           ]}
       />
       <Link to={'/'}>« Back</Link>
