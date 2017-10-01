@@ -13,6 +13,7 @@
     "react-helmet": "^4.0.0",
     "react-router-dom": "^4.2.2",
     "react-snapshot": "^1.0.4",
+    "renamer": "^0.6.1",
     "styled-components": "^1.4.2"
   },
   "scripts": {
@@ -20,6 +21,7 @@
     "build": "react-scripts build && react-snapshot",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "deploy": "npm run build && surge -p build"
+    "deploy": "yarn build && renamer --insensitive --find '.html' --replace '' 'build/posts/*' && aws s3 sync build/ s3://suckingallthe.fun && aws s3 cp build/posts/ s3://suckingallthe.fun/posts --recursive --content-type=text/html",
+    "deploy-surge": "npm run build && surge -p build"
   }
 }
