@@ -15,6 +15,7 @@ import Footer from './components/Footer';
 import Blog from './components/Blog';
 import Post from './components/Post';
 import About from './views/About'
+import Feed from './views/Feed'
 import NoMatch from './views/NoMatch'
 
 const title = 'Sucking all the fun...'
@@ -36,6 +37,7 @@ class App extends Component {
             <Route exact path="/" component={Blog}/>
             <Route path="/about" component={About}/>
             <Route path="/posts/:title" component={Post}/>
+            <Route path="/Feed" component={Feed}/>
             <Route component={NoMatch} />
           </Switch>
           <Footer>
