@@ -6,8 +6,8 @@ import {
   Link,
 } from 'react-router-dom';
 import Helmet from 'react-helmet';
-import ReactGA from 'react-ga';
-ReactGA.initialize('UA-107278638-1');
+//import ReactGA from 'react-ga';
+//ReactGA.initialize('UA-107278638-1');
 import Wrapper from './components/Wrapper';
 import Title from './components/Title';
 import Footer from './components/Footer';
@@ -19,15 +19,16 @@ import NoMatch from './views/NoMatch'
 
 const title = 'Sucking all the fun...'
 
-const logPageView = () => {
-  ReactGA.set({ page: window.location.pathname + window.location.search });
-  ReactGA.pageview(window.location.pathname + window.location.search);
-}
+//const logPageView = () => {
+  //ReactGA.set({ page: window.location.pathname + window.location.search });
+  //ReactGA.pageview(window.location.pathname + window.location.search);
+//}
+      //<Router onUpdate={logPageView}>
 
 class App extends Component {
   render () {
     return (
-      <Router onUpdate={logPageView}>
+      <Router>
         <Wrapper>
           <Helmet title={title} />
           <Title>{title}</Title>
